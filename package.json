@@ -5,9 +5,8 @@
   "scripts": {
     "devstart": "nodemon index.js"
   },
-  "author": "",
+  "author": "Hanzala Goraya",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
@@ -15,5 +14,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.4.4",
     "nodemon": "^3.1.4"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
